@@ -1,8 +1,5 @@
 <h1 align="left">Hi! I'm Aniket Kodgirwar</h1>
 
-
-<h2 align="center">Never stop learning because life never stops teaching.✨</h2>
-
 ###
 
 <h2 align="left">About me</h2>
@@ -56,5 +53,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Never stop learning because life never stops teaching.✨</h2>
 
 ###
