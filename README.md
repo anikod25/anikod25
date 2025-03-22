@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Aniket Kodgirwar</h1>
+<h1 align="left">Hi! I'm Aniket Kodgirwar</h1>
 
 ###
 
@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<h2 align="center">Never stop learning because life never stops teaching.✨</h2>
+<h2 align="left">Never stop learning because life never stops teaching.✨</h2>
 
 ###
