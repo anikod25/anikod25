@@ -56,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Never stop learning because life never stops teaching.✨</h2>
 
 ###
