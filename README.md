@@ -40,8 +40,6 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" height="40" alt="Photoshop" />
   <img width="12" />
-  <img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" alt="Picsart" />
-  <img width="12" />
 </div>
 
 ###
@@ -52,10 +50,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aniket-kodgirwar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/AniketKodgirwar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="52" height="40" alt="Twitter" />
   </a>
   <a href="https://www.hackerrank.com/profile/aniket_kodgirwa1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
