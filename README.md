@@ -41,6 +41,7 @@
   <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" height="40" alt="Photoshop" />
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" alt="Picsart" />
+  <img width="12" />
 </div>
 
 ###
