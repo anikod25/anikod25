@@ -50,13 +50,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aniket-kodgirwar/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" width="50" alt="LinkedIn" />
   </a>
   <a href="https://x.com/AniketKodgirwar" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="52" height="40" alt="Twitter" />
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="50" width="50" alt="Twitter" />
   </a>
   <a href="https://www.hackerrank.com/profile/aniket_kodgirwa1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="50" width="50" alt="HackerRank" />
   </a>
 </div>
 
