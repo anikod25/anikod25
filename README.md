@@ -22,11 +22,11 @@
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="40" alt="C" />
 </div>
 
 ###
@@ -36,9 +36,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="40" alt="Canva" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" height="40" alt="Photoshop" />
+  <img width="12" />
+  <img src="https://play.google.com/store/apps/dev?id=5408830062919995155" height="40" alt="Picsart" />
 </div>
 
 ###
