@@ -22,11 +22,11 @@
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="50" width="50" alt="Python" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="50" width="50" alt="HTML5" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" height="40" alt="C++" />
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" height="50" width="50" alt="C++" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="40" alt="C" />
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="50" width="50" alt="C" />
 </div>
 
 ###
@@ -36,9 +36,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="40" alt="Canva" />
+  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="50" width="50" alt="Canva" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" height="40" alt="Photoshop" />
+  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" height="50" width="50" alt="Photoshop" />
   <img width="12" />
 </div>
 
