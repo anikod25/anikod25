@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi! I'm Aniket Kodgirwar</h1>
 
 ###
@@ -16,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="4" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -57,6 +56,14 @@
 
 ###
 
-<h2 align="left">Never stop learning because life never stops teaching.✨</h2>
+<br clear="both">
+
+<h2 align="center">Never stop learning because life never stops teaching.✨</h2>
+
+###
+
+<div align="center">
+  <img height="165" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI1Ymh6cHNzNWxyOWdhOTEzazhndWtudGdnMGV2cmRncTcyaDFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif"  />
+</div>
 
 ###
