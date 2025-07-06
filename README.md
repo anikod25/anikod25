@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">"Never stop learning because life never stops teaching." ✨</h2>
+<h2 align="left">"Never stop learning because life never stops teaching.✨"</h2>
 
 ###
 
