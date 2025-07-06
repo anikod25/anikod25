@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="Python" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" width="12" alt="Python" />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML5" />
   <img width="12" />
