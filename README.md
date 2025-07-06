@@ -69,5 +69,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI1Ymh6cHNzNWxyOWdhOTEzazhndWtudGdnMGV2cmRncTcyaDFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" alt="coding gif" />
+  <img height="165" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI1Ymh6cHNzNWxyOWdhOTEzazhndWtudGdnMGV2cmRncTcyaDFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" alt="coding gif" />
 </div>
