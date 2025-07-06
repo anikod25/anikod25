@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both" />
+
+<h2 align="center">"Never stop learning because life never stops teaching." ✨</h2>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
@@ -59,12 +65,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="50" width="50" alt="HackerRank" />
   </a>
 </div>
-
-###
-
-<br clear="both" />
-
-<h2 align="center">"Never stop learning because life never stops teaching." ✨</h2>
 
 ###
 
