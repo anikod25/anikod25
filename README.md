@@ -10,8 +10,8 @@
 
 CS sophomore @ **MIT-WPU, Pune** · President of **INSIGHT AI** 🧠
 
-- 🏆 **3rd place** — AI & Emerging Tech Poster · MRIIRS × ERASMUS+
 - 🔭 Building things at the intersection of AI, security & systems
+- 🔐 Interested in **cryptography** and how things break
 - 🌱 Currently deep in **DSA, RL agents, and full-stack dev**
 - ⚡ I like shipping side projects between lectures
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aniket-kodgirwar/)
@@ -53,7 +53,7 @@ CS sophomore @ **MIT-WPU, Pune** · President of **INSIGHT AI** 🧠
 <div align="left">
   <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-333333?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
   <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
@@ -65,21 +65,15 @@ CS sophomore @ **MIT-WPU, Pune** · President of **INSIGHT AI** 🧠
   <a href="https://www.linkedin.com/in/aniket-kodgirwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/AniketKodgirwar" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
   <a href="https://www.hackerrank.com/profile/aniket_kodgirwa1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
   <a href="https://github.com/anikod25" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Anikod/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=anikod25&style=flat-square&color=blue" alt="profile views" />
-</div>
