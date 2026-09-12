@@ -25,8 +25,6 @@ Building at the intersection of **AI**, **security**, and **systems**. Intereste
 | [**ContainerCraft**](https://github.com/anikod25/Container-Craft) | React · Vite · Docker | Visual Docker Compose editor |
 | [**Agritrace**](https://youtu.be/1IuvPT4CZEc) | AI · Blockchain | Agricultural supply chain traceability platform |
 | [**SecureNite**](https://github.com/anikod25/SecureNite) | Browser Extension | Multi-layer password security manager |
-| **Minimax vs RL** | C++ · SFML | Negamax AI vs Q-Learning agent on dual boards |
-
 ---
 
 ## Stack
