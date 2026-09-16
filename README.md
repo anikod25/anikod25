@@ -22,8 +22,8 @@ Building at the intersection of **AI**, **security**, and **systems**. Intereste
 | Project | Stack | Description |
 |---|---|---|
 | [**Kira**](https://github.com/anikod25/kira) | Python · Ollama · LLM | Autonomous multi-phase penetration testing agent |
-| [**ContainerCraft**](https://github.com/anikod25/Container-Craft) | React · Vite · Docker | Visual Docker Compose editor |
-| [**Agritrace**](https://youtu.be/1IuvPT4CZEc) | AI · Blockchain | Agricultural supply chain traceability platform |
+| [**ContainerCraft**](https://github.com/anikod25/wilhelm) | React · Vite · Docker | Visual Docker Compose editor |
+| [**Wilhelm**](https://youtu.be/1IuvPT4CZEc) |AI · Multi-turn Agent | Unified enterprise AI agent with domain routing and on-demand output formatting |
 | [**SecureNite**](https://github.com/anikod25/SecureNite) | Browser Extension | Multi-layer password security manager |
 ---
 
