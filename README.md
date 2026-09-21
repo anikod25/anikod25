@@ -23,7 +23,7 @@ Building at the intersection of **AI**, **security**, and **systems**. Intereste
 |---|---|---|
 | [**Kira**](https://github.com/anikod25/kira) | Python · Ollama · LLM | Autonomous multi-phase penetration testing agent |
 | [**ContainerCraft**](https://github.com/anikod25/wilhelm) | React · Vite · Docker | Visual Docker Compose editor |
-| [**Wilhelm**](https://youtu.be/1IuvPT4CZEc) |AI · Multi-turn Agent | Unified enterprise AI agent with domain routing and on-demand output formatting |
+| [**Wilhelm**](https://github.com/anikod25/wilhelm) |AI · Multi-turn Agent | Unified enterprise AI agent with domain routing and on-demand output formatting |
 | [**SecureNite**](https://github.com/anikod25/SecureNite) | Browser Extension | Multi-layer password security manager |
 ---
 
