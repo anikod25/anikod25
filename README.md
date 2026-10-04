@@ -2,8 +2,6 @@
 <p align="left">CS Sophomore · MIT-WPU, Pune &nbsp;|&nbsp; Builder · Security-Curious · Cryptography</p>
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=anikod25&style=flat-square&color=2563EB" />
-&nbsp;
 <a href="https://www.linkedin.com/in/aniket-kodgirwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AniketKodgirwar"><img src="https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://github.com/anikod25"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
