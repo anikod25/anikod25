@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Aniket</h1>
-<p align="left">CS Sophomore · MIT-WPU, Pune &nbsp;|&nbsp; Builder · Security-Curious · Cryptography</p>
+<p align="left">CS Third year · MIT-WPU, Pune &nbsp;|&nbsp; Builder · Security-Curious · Cryptography</p>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/aniket-kodgirwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
